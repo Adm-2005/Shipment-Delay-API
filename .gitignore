@@ -3,3 +3,7 @@ venv/
 
 # environment/configuration files
 .env
+
+# cache file
+__pycache__/
+.pytest_cache/
